@@ -16,4 +16,4 @@ You are free to:
 **Condition:** Proper credit must be given.
 
 ### Example Attribution
-"SSC Question Bank by Mahib Abrar[https://github.com/MahibAbrar222] – CC BY 4.0"
+"SSC Question Bank by Mahib Abrar[https://github.com/itsmahibabrar] – CC BY 4.0"
