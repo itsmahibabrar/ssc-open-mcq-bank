@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Educational Question Schema",
+  "description": "A schema for storing educational questions linked to specific chapters and boards.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "board",
+      "year",
+      "chapter",
+      "question",
+      "option_a",
+      "option_b",
+      "option_c",
+      "option_d",
+      "correct_option",
+      "type"
+    ],
+    "properties": {
+      "id": {
+        "type": "integer",
+        "description": "Unique identifier for the question"
+      },
+      "board": {
+        "type": "string",
+        "description": "The educational board name"
+      },
+      "year": {
+        "type": "integer",
+        "description": "The year the question was asked"
+      },
+      "chapter": {
+        "type": "integer",
+        "description": "ID of the chapter, referencing the Chapters.json file"
+      },
+      "question": {
+        "type": "string",
+        "description": "The text of the question"
+      },
+      "option_a": { "type": "string" },
+      "option_b": { "type": "string" },
+      "option_c": { "type": "string" },
+      "option_d": { "type": "string" },
+      "correct_option": {
+        "type": "string",
+        "enum": ["option_a", "option_b", "option_c", "option_d"],
+        "description": "The key of the correct option"
+      },
+      "type": {
+        "type": "string",
+        "description": "Category of the question (e.g., 'question')"
+      }
+    }
+  }
+  }
+      
