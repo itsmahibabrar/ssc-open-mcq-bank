@@ -234,5 +234,101 @@
     "option_d": "পরচর্চায় ব্যস্ত থাকার কারণে",
     "correct_option": "option_b",
     "type": "question"
+  },
+  {
+    "type": "question",
+    "board": 1,
+    "chapter": 11,
+    "id": 20,
+    "question": "“মিষ্টি যেন গুড়-দেবো তোমায়?”-উক্তিটিতে দুর্গার কী ধরনের মনোভাব প্রকাশ পেয়েছে?",
+    "option_a": "ক্ষোভ",
+    "option_b": "উপহাস",
+    "option_c": "স্নেহ",
+    "option_d": "অভিমান",
+    "correct_option": "option_a"
+  },
+  {
+    "type": "question",
+    "board": 2,
+    "chapter": 11,
+    "id": 21,
+    "question": "বামুন হিসেবে বাস করার প্রস্তাবে হরিহর তখনই রাজি হলেন না কেন?",
+    "option_a": "পাওনাদারের ভয়ে",
+    "option_b": "আত্মসম্মান রক্ষার জন্য",
+    "option_c": "চাকরি হারানোর ভয়ে",
+    "option_d": "প্রস্তাবকারী সদ্‌গোপ বলে",
+    "correct_option": "option_b"
+  },
+  {
+    "type": "question",
+    "board": 4,
+    "chapter": 11,
+    "id": 22,
+    "question": "ঐ ফুল ফোটে বনে, যাই মধু আহরণে দাঁড়াবার সময় তো নাই। উক্ত ভাবে ‘আম-আঁটির ভেঁপু’ গল্পের দুর্গা চরিত্রের কোন দিকটি ফুটে উঠেছে?",
+    "option_a": "ভবঘুরে",
+    "option_b": "কৌতূহলপ্রবণ",
+    "option_c": "প্রকৃতিপ্রেম",
+    "option_d": "চঞ্চলতা",
+    "correct_option": "option_d"
+  },
+  {
+    "type": "question",
+    "board": 3,
+    "chapter": 11,
+    "id": 23,
+    "question": "‘মা ঘাট থেকে আসে নি তো?’-দুর্গার এ কথায় কী প্রকাশ পেয়েছে?",
+    "option_a": "সচেতনতা",
+    "option_b": "সতর্কতা",
+    "option_c": "আতঙ্ক",
+    "option_d": "সন্দেহ",
+    "correct_option": "option_b"
+  },
+  {
+    "type": "question",
+    "board": 5,
+    "chapter": 11,
+    "id": 24,
+    "question": "“কপালকুণ্ডলা সারাদিন বনে-জঙ্গলে ঘুরে বেড়ায়। বনে-বনে ঘুরে বেড়াতেই তার সুখ।” কপালকুণ্ডলা চরিত্রের সাথে দুর্গা যেদিক থেকে সাদৃশ্যপূর্ণ-\n(i) চঞ্চল (ii) কৌতূহলপ্রবণ (iii) প্রকৃতি ঘনিষ্ঠ\nনিচের কোনটি সঠিক?",
+    "option_a": "i, ii",
+    "option_b": "i, iii",
+    "option_c": "ii, iii",
+    "option_d": "i, ii, iii",
+    "correct_option": "option_b"
+  },
+  {
+    "type": "question",
+    "board": 3,
+    "chapter": 11,
+    "id": 25,
+    "question": "হরিহর সদ্‌গোপদের প্রস্তাবে রাজি হয়নি কেন?",
+    "option_a": "ধর্মাধ্যক্ষের কারণে",
+    "option_b": "নির্বুদ্ধিতার জন্য",
+    "option_c": "সর্বজয়ার কথা ভেবে",
+    "option_d": "বংশ মর্যাদা ক্ষুণ্ণর ভয়ে",
+    "correct_option": "option_d"
+  },
+  {
+    "type": "question",
+    "board": 8,
+    "chapter": 11,
+    "id": 26,
+    "question": "‘আম-আঁটির ভেঁপু’ গল্পে সর্বজয়ার চরিত্রে প্রকাশ পেয়েছে-\n(i) রূঢ় মায়ের সন্তান শাসন\n(ii) পল্লিমায়ের শাশ্বত রূপ\n(iii) মমতাময়ী মায়ের স্বভাবসুলভ ব্যবহার\nনিচের কোনটি সঠিক?",
+    "option_a": "i, ii",
+    "option_b": "i, iii",
+    "option_c": "ii, iii",
+    "option_d": "i, ii, iii",
+    "correct_option": "option_c"
+  },
+  {
+    "type": "question",
+    "board": 9,
+    "chapter": 11,
+    "id": 27,
+    "question": "দুর্গা আঁচলের খুঁট খুলিয়া কী বাহির করিল?",
+    "option_a": "রড়া ফলের বিচি",
+    "option_b": "খাপরার কুচি",
+    "option_c": "নাটাফল",
+    "option_d": "আমের কুশি",
+    "correct_option": "option_a"
   }
 ]
