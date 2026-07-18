@@ -73,9 +73,6 @@
     "questions": [
       {
         "id": 6,
-        "board": "Cumilla",
-        "year": 2025,
-        "chapter": 3,
         "question": "উদ্দীপকের হাবিবের সাথে নিচের সাদৃশ্যপূর্ণ চরিত্র কোনটি?",
         "option_a": "প্রতাপ",
         "option_b": "সুভার মা",
@@ -86,9 +83,6 @@
       },
       {
         "id": 7,
-        "board": "Cumilla",
-        "year": 2025,
-        "chapter": 3,
         "question": "উক্ত সাদৃশ্যের কারণ কী? (i) পশুপ্রীতি (ii) জীবপ্রেম (iii) বিবেকবোধ",
         "option_a": "i, ii",
         "option_b": "ii, iii",
