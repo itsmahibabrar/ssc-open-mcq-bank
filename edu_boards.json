@@ -1,0 +1,13 @@
+[
+  {"id": 1, "name": "Dhaka Board", "bname": "ঢাকা বোর্ড"},
+  {"id": 2, "name": "Rajshahi Board", "bname": "রাজশাহী বোর্ড"},
+  {"id": 3, "name": "Cumilla Board", "bname": "কুমিল্লা বোর্ড"},
+  {"id": 4, "name": "Chattogram Board", "bname": "চট্টগ্রাম বোর্ড"},
+  {"id": 5, "name": "Jashore Board", "bname": "যশোর বোর্ড"},
+  {"id": 6, "name": "Barishal Board", "bname": "বরিশাল বোর্ড"},
+  {"id": 7, "name": "Sylhet Board", "bname": "সিলেট বোর্ড"},
+  {"id": 8, "name": "Dinajpur Board", "bname": "দিনাজপুর বোর্ড"},
+  {"id": 9, "name": "Mymensingh Board", "bname": "ময়মনসিংহ বোর্ড"},
+  {"id": 10, "name": "Madrasah Board", "bname": "মাদ্রাসা বোর্ড"},
+  {"id": 11, "name": "Technical Board", "bname": "কারিগরি বোর্ড"}
+]
