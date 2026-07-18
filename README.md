@@ -2,7 +2,7 @@
 Open-source SSC MCQ question bank — study, practice, and prepare for exams for free. Verified questions for better learning. In JSON Format.
 
 ## How To Use
-Check: mcq_question_schema.json[./mcq_question_schema.json]
+Check: [mcq_question_schema.json](./mcq_question_schema.json)
 ## Fully Open Source & Free
 ## In Progress
 
@@ -18,4 +18,4 @@ You are free to:
 **Condition:** Proper credit must be given.
 
 ### Example Attribution
-"SSC Question Bank by Mahib Abrar[https://github.com/itsmahibabrar] – CC BY 4.0"
+"SSC Question Bank by [Mahib Abrar](https://github.com/itsmahibabrar) – CC BY 4.0"
