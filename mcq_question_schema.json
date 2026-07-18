@@ -24,7 +24,7 @@
         "description": "Unique identifier for the question"
       },
       "board": {
-        "type": "string",
+        "type": "integer",
         "description": "The educational board name"
       },
       "year": {
