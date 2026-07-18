@@ -1,58 +1,99 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Educational Question Schema",
-  "description": "A schema for storing educational questions linked to specific chapters and boards.",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Questionnaire",
   "type": "array",
   "items": {
     "type": "object",
-    "required": [
-      "id",
-      "board",
-      "year",
-      "chapter",
-      "question",
-      "option_a",
-      "option_b",
-      "option_c",
-      "option_d",
-      "correct_option",
-      "type"
-    ],
+    "required": ["type", "board", "chapter"],
     "properties": {
-      "id": {
-        "type": "integer",
-        "description": "Unique identifier for the question"
-      },
-      "board": {
-        "type": "integer",
-        "description": "The educational board name"
-      },
-      "year": {
-        "type": "integer",
-        "description": "The year the question was asked"
-      },
-      "chapter": {
-        "type": "integer",
-        "description": "ID of the chapter, referencing the Chapters.json file"
-      },
-      "question": {
-        "type": "string",
-        "description": "The text of the question"
-      },
-      "option_a": { "type": "string" },
-      "option_b": { "type": "string" },
-      "option_c": { "type": "string" },
-      "option_d": { "type": "string" },
-      "correct_option": {
-        "type": "string",
-        "enum": ["option_a", "option_b", "option_c", "option_d"],
-        "description": "The key of the correct option"
-      },
       "type": {
         "type": "string",
-        "description": "Category of the question (e.g., 'question')"
+        "enum": ["question", "passage"]
+      },
+      "board": {
+        "type": "integer"
+      },
+      "chapter": {
+        "type": "integer"
+      },
+      "id": {
+        "type": "integer"
+      },
+      "question": {
+        "type": "string"
+      },
+      "option_a": {
+        "type": "string"
+      },
+      "option_b": {
+        "type": "string"
+      },
+      "option_c": {
+        "type": "string"
+      },
+      "option_d": {
+        "type": "string"
+      },
+      "correct_option": {
+        "type": "string",
+        "enum": ["option_a", "option_b", "option_c", "option_d"]
+      },
+      "text": {
+        "type": "string"
+      },
+      "questions": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["id", "question", "option_a", "option_b", "option_c", "option_d", "correct_option", "type"],
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "question": {
+              "type": "string"
+            },
+            "option_a": {
+              "type": "string"
+            },
+            "option_b": {
+              "type": "string"
+            },
+            "option_c": {
+              "type": "string"
+            },
+            "option_d": {
+              "type": "string"
+            },
+            "correct_option": {
+              "type": "string",
+              "enum": ["option_a", "option_b", "option_c", "option_d"]
+            },
+            "type": {
+              "type": "string",
+              "enum": ["question"]
+            }
+          }
+        }
       }
-    }
+    },
+    "allOf": [
+      {
+        "if": {
+          "properties": { "type": { "const": "question" } }
+        },
+        "then": {
+          "required": ["id", "question", "option_a", "option_b", "option_c", "option_d", "correct_option"]
+        }
+      },
+      {
+        "if": {
+          "properties": { "type": { "const": "passage" } }
+        },
+        "then": {
+          "required": ["text", "questions"]
+        }
+      }
+    ]
   }
-  }
-      
+}
