@@ -1,0 +1,104 @@
+[
+  {
+    "type": "question",
+    "board": 1,
+    "chapter": 30,
+    "id": 67,
+    "question": "'সতত' শব্দের অর্থ কী?",
+    "option_a": "সর্বদা",
+    "option_b": "সৎভাবে",
+    "option_c": "স্মরণীয়",
+    "option_d": "সততাপূর্ণ",
+    "correct_option": "option_a"
+  },
+  {
+    "type": "question",
+    "board": 2,
+    "chapter": 30,
+    "id": 68,
+    "question": "'কপোতাক্ষ নদ' কবিতায় কবি মাইকেল মধুসূদন দত্ত তাঁকে স্মরণ রাখার জন্য কাকে সবিনয়ে মিনতি করেছেন?",
+    "option_a": "বঙ্গবাসীকে",
+    "option_b": "বঙ্গজ জনকে",
+    "option_c": "স্বদেশকে",
+    "option_d": "কপোতাক্ষ নদকে",
+    "correct_option": "option_d"
+  },
+  {
+    "type": "passage",
+    "board": 4,
+    "chapter": 30,
+    "text": "\"নয়ন সমুখে তুমি নাই\nনয়নের মাঝখানে নিয়েছ যে ঠাঁই\"-",
+    "questions": [
+      {
+        "id": 69,
+        "type": "question",
+        "question": "উদ্দীপকের ভাবটি ফুটে উঠেছে কোন চরণে?",
+        "option_a": "জুড়াই এ কান আমি ভ্রান্তির ছলনে!",
+        "option_b": "কিন্তু এ স্নেহের তৃষ্ণা মিটে কার জলে?",
+        "option_c": "আর কি হে হবে দেখা? -যতদিন যাবে,",
+        "option_d": "सतत, হে নদ, তুমি পড় মোর মনে!",
+        "correct_option": "option_d"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "board": 6,
+    "chapter": 30,
+    "id": 70,
+    "question": "“যেমতি, লোক নিশার স্বপনে শোনে মায়া-মন্ত্রধ্বনি”- এখানে ‘মায়া-মন্ত্রধ্বনি’ বলতে কী বোঝানো হয়েছে?",
+    "option_a": "বিদেশে বসে স্বদেশের স্মৃতিচারণ",
+    "option_b": "স্বদেশের মায়া-মন্ত্র",
+    "option_c": "স্বপ্নের মধ্যে একান্ত চিন্তা-চেতনার অনুরণন",
+    "option_d": "মায়ারূপ মন্ত্রধ্বনি",
+    "correct_option": "option_c"
+  },
+  {
+    "type": "question",
+    "board": 5,
+    "chapter": 30,
+    "id": 71,
+    "question": "“আর কি হে হবে দেখা? যত দিন যাবে,”-এ উক্তিতে কবির কোন ভাব প্রকাশ পেয়েছে?",
+    "option_a": "আকুলতা",
+    "option_b": "কাতরতা",
+    "option_c": "সন্দেহ",
+    "option_d": "দেশপ্রেম",
+    "correct_option": "option_c"
+  },
+  {
+    "type": "question",
+    "board": 3,
+    "chapter": 30,
+    "id": 72,
+    "question": "“জুড়াই এ কান আমি ভ্রান্তির ছলনে!” চরণটিতে প্রকাশ পেয়েছে?",
+    "option_a": "স্তুতি",
+    "option_b": "কৃতজ্ঞতা",
+    "option_c": "আক্ষেপ",
+    "option_d": "তৃপ্তিবোধ",
+    "correct_option": "option_d"
+  },
+  {
+    "type": "question",
+    "board": 8,
+    "chapter": 30,
+    "id": 73,
+    "question": "সনেটের অষ্টকের অন্ত্যমিল যখন “কখখক কখখক” তখন ষটকের অন্ত্যমিল কী হবে?",
+    "option_a": "গঘ গঘ গঘ",
+    "option_b": "ঘঙচ ঘঙচ",
+    "option_c": "ঘঙ ঘঙ চচ",
+    "option_d": "গঘ গঘ চচ",
+    "correct_option": "option_b"
+  },
+  {
+    "type": "question",
+    "board": 10,
+    "chapter": 30,
+    "id": 74,
+    "question": "“নাম তার, এ প্রবাসে মজি প্রেম-ভাবে।” পঙ্ক্তিতে কবি মাইকেল মধুসূদন দত্ত কার নামের কথা বলেছেন?",
+    "option_a": "সাগরের",
+    "option_b": "সখাদের",
+    "option_c": "কপোতাক্ষ নদের",
+    "option_d": "প্রজাদের",
+    "correct_option": "option_c"
+  }
+]
