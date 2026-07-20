@@ -1,0 +1,62 @@
+[
+  {
+    "type": "question",
+    "board": 1,
+    "chapter": 46,
+    "id": 85,
+    "question": "“খোদার কসম আমি ভিনদেশি পথিক নই আমি কোনো আগন্তুক নই।”- কবির এই বলিষ্ঠ উচ্চারণে কোন চেতনা সক্রিয় ছিল?",
+    "option_a": "ধর্মভীরুতা",
+    "option_b": "প্রকৃতিপ্রেম",
+    "option_c": "স্বদেশপ্রীতি",
+    "option_d": "সাম্যবাদ",
+    "correct_option": "option_c"
+  },
+  {
+    "type": "question",
+    "board": 2,
+    "chapter": 46,
+    "id": 86,
+    "question": "“আমারেই পাবে তুমি ইহাদের ভিড়ে”- এই চরণের সাথে কোন কবিতার সাদৃশ্য রয়েছে?",
+    "option_a": "আমার পরিচয়",
+    "option_b": "সেইদিন এই মাঠ",
+    "option_c": "আমি কোনো আগন্তুক নই",
+    "option_d": "আশা",
+    "correct_option": "option_c"
+  },
+  {
+    "type": "question",
+    "board": 8,
+    "chapter": 46,
+    "id": 87,
+    "question": "'আমি কোনো আগন্তুক নই' কবিতায় কার ছায়া জোছনার চাদরে ঢাকা ছিল?",
+    "option_a": "বাঁশবাগান",
+    "option_b": "জারুল",
+    "option_c": "নিশিন্দা",
+    "option_d": "জামরুল",
+    "correct_option": "option_c"
+  },
+  {
+    "type": "question",
+    "board": 10,
+    "chapter": 46,
+    "id": 88,
+    "question": "'আমি কোনো আগন্তুক নই' কবিতায় 'মাছরাঙা' কোথায় বসে স্থিরদৃষ্টিতে তাকিয়ে থাকে?",
+    "option_a": "জামরুল গাছে",
+    "option_b": "নদীর কিনারে",
+    "option_c": "নিশিন্দার ছায়ায়",
+    "option_d": "ডুমুরের ডালে",
+    "correct_option": "option_d"
+  },
+  {
+    "type": "question",
+    "board": 7,
+    "chapter": 46,
+    "id": 89,
+    "question": "'আমি কোনো আগন্তুক নই' কবিতায় কোনটি কবির অস্তিত্বে গাঁথা?",
+    "option_a": "মাটির সুবাস",
+    "option_b": "ধানের মঞ্জরি",
+    "option_c": "নদীর কিনার",
+    "option_d": "জমিনের ফুল",
+    "correct_option": "option_c"
+  }
+]
