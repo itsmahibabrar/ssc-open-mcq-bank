@@ -1,4 +1,5 @@
 # SSC Open MCQ Question Bank
+![.](./thumbnail.png)
 Welcome to the **SSC Open MCQ Question Bank**, an open-source initiative dedicated to providing a free, verified, and structured repository of SSC multiple-choice questions. Our goal is to empower students with accessible study materials while encouraging community-driven improvements.
 ## 🚀 Get Involved: How to Contribute
 We believe the best study resources are built by the community. Whether you are a student, educator, or developer, your contributions are highly valued:
